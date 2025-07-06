@@ -82,7 +82,7 @@
          .secondSection{
             max-width: 80vw ;
             margin: auto;
-            height: 80vh;
+            height: 101vh;
          }
 
          .secondSection h1{
@@ -90,7 +90,7 @@
          }
 
          .secondSection .box{
-            background: white;
+            
             width: 76vw;
             height: 2px;
             margin: 56px 0;
@@ -101,14 +101,21 @@
          .secondSection .vertical{
             height: 90px;
             width: 1px;
-            background-color: white;
+            
             margin: 0 120px;
          }
 
          .image-top{
-            width: 45px;
+            width: 119px;
             position: relative;
-            top: -50px;
+            top: -7px;
+            left: -20px;
+         }
+
+         .image-distancemeasure{
+            width: 162px;
+            position: relative;
+            top: -7px;
             left: -20px;
          }
 
