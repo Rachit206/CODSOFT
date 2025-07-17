@@ -62,6 +62,15 @@
     text-align: center;
 }
 
+.section3{
+    padding: 73px;
+}
+
+.section3 p{
+    padding: 0 8vw;
+    text-align: center;
+}
+
 .box{
     padding: 8px 0;
     margin: 12px 22px;
